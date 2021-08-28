@@ -12,7 +12,9 @@ PC： https://site-3663036-5619-140.mystrikingly.com/blog/letters-and-fireworks
 【更新记录】
 
 2019.2.22 v1.0.0发布
+
 2020.2.10 v1.1.0发布
+
 【更新内容】
 
 -简单修改立绘
