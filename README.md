@@ -7,6 +7,8 @@
 
 【获取游戏】
 
+网页： https://hirudokiame.github.io/Letters-and-Firework/
+
 PC： https://site-3663036-5619-140.mystrikingly.com/blog/letters-and-fireworks
 
 【更新记录】
